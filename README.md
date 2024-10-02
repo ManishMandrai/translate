@@ -22,3 +22,7 @@ This Chrome extension enhances the functionality of WhatsApp Web by providing tr
    
    ```bash
    git clone https://github.com/your-repository/whatsapp-translator-extension.git
+
+
+https://github.com/user-attachments/assets/322302ed-0127-4e8d-a8a8-cb893205e192
+
